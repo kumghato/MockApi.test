@@ -35,7 +35,7 @@ function Movies() {
                         <th scope="col">Name of the Movie</th>
                         <th scope="col">Name of the Director</th>
                         <th scope="col">Name of the Producer</th>
-                        <th scope="col">Release Dates</th>
+                        <th scope="col">Date of Release</th>
                         <th scope="col">Action</th>
                     </tr>
                 </thead>
